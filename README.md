@@ -18,6 +18,7 @@ MacBook:
 Here's a list of the Software I use:
 - [Xcode](https://developer.apple.com/xcode/) for iOS and macOS Applications
 - [IntelliJ](https://www.jetbrains.com/de-de/idea/) for Java and Kotlin
+- [VsCode](https://code.visualstudio.com) for Websites and C++
 - [Arduino](https://www.arduino.cc) for Arduino tools
 
 <!--
