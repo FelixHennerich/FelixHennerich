@@ -1,6 +1,6 @@
 ### Hi, whats up? 👋
 
-I'm Felix. Male. 18y. Student in Germany at Gymnasium Ebingen. A passionate person for everything round about coding, tech and science. Before I start studying computer science at a university in Germany, I'm going to improve and refine my skills as much as possible. You've got a challenge for me? Text me! Anyway. Have fun on my GitHub account. 😄
+I'm Felix. Male. 18y. Student in Germany 🇩🇪 at Gymnasium Ebingen. A passionate person for everything round about coding, tech and science. Before I start studying computer science at a university in Germany, I'm going to improve and refine my skills as much as possible. You've got a challenge for me? Text me! Anyway. Have fun on my GitHub account. 😄
 
 
 ## Coding Setup
@@ -12,6 +12,16 @@ MacBook:
 - M1 CPU with 8 CPU Cores and 7 GPU Cores
 - 256 GB of Storage
 - 16 GB of unified RAM
+
+2nd Screen (Portable):
+- 2022 IPad Air 5.Gen
+- 64 GB of Storage
+
+3rd Screen (Home):
+- LG Ultragear Gaming Monitor 27GN800-B
+- 27 Zoll
+- 144 Hz
+
 
 ### Software
 
