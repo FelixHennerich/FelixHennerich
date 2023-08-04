@@ -22,6 +22,7 @@ MacBook:
 - 27 Zoll
 - 144 Hz
 
+https://discord.gg/Qb6BzpAt8V
 
 ### Software
 
@@ -30,7 +31,14 @@ Here's a list of the Software I use:
 - [IntelliJ](https://www.jetbrains.com/de-de/idea/) for Java and Kotlin
 - [VsCode](https://code.visualstudio.com) for Websites and C++
 - [Arduino](https://www.arduino.cc) for Arduino tools
+#
+<h3 align="left">Contac</h3>
+<p align="left">
+<a href="https://discord.gg/Qb6BzpAt8V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Qb6BzpAt8V" height="30" width="40" /></a>
+ <a href="https://twitter.com/HennerichFelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HennerichFelix" height="30" width="40" /></a>
+</p>
 
+#
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelixHennerich&show_icons=true&locale=en&theme=github_dark" alt="FelixHennerich" /></p>
 <!--
