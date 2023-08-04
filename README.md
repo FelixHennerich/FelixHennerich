@@ -1,10 +1,11 @@
-#
-<h1 align="center">Felix Hennerich</h1>
-#
-### Hi, whats up? 👋
 
-I'm Felix. Male. 18y. Student in Germany 🇩🇪 at Gymnasium Ebingen. A passionate person for everything round about coding, tech and science. Before I start studying computer science at a university in Germany, I'm going to improve and refine my skills as much as possible. You've got a challenge for me? Text me! Anyway. Have fun on my GitHub account. 😄
+<h1 align="center">Felix Hennerich<br></h1>
+<br>
+Hi, whats up? 👋
 
+<br>
+
+<br>I'm Felix. Male. 18y. Student in Germany 🇩🇪 at Gymnasium Ebingen. A passionate person for everything round about coding, tech and science. Before I start studying computer science at a university in Germany, I'm going to improve and refine my skills as much as possible. You've got a challenge for me? Text me! Anyway. Have fun on my GitHub account. 😄
 
 ## Coding Setup
 
