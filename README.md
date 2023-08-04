@@ -26,7 +26,6 @@ MacBook:
 - 27 Zoll
 - 144 Hz
 
-https://discord.gg/Qb6BzpAt8V
 
 ### Software
 
