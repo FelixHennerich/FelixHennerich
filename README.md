@@ -31,6 +31,8 @@ Here's a list of the Software I use:
 - [VsCode](https://code.visualstudio.com) for Websites and C++
 - [Arduino](https://www.arduino.cc) for Arduino tools
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelixHennerich&show_icons=true&locale=en&theme=github_dark" alt="FelixHennerich" /></p>
 <!--
 **FelixHennerich/FelixHennerich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
