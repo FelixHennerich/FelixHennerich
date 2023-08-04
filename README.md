@@ -1,3 +1,6 @@
+#
+<h1 align="center">Felix Hennerich</h1>
+#
 ### Hi, whats up? 👋
 
 I'm Felix. Male. 18y. Student in Germany 🇩🇪 at Gymnasium Ebingen. A passionate person for everything round about coding, tech and science. Before I start studying computer science at a university in Germany, I'm going to improve and refine my skills as much as possible. You've got a challenge for me? Text me! Anyway. Have fun on my GitHub account. 😄
@@ -32,10 +35,12 @@ Here's a list of the Software I use:
 - [VsCode](https://code.visualstudio.com) for Websites and C++
 - [Arduino](https://www.arduino.cc) for Arduino tools
 #
-<h3 align="left">Contac</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://discord.gg/Qb6BzpAt8V" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Qb6BzpAt8V" height="30" width="40" /></a>
  <a href="https://twitter.com/HennerichFelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HennerichFelix" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/channel/UCKNT0NCikpds9nWKhIQcS3w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1BlueNitrox" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/felixderkeinennamenkennt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felixderkeinennamenkennt" height="30" width="40" /></a>
 </p>
 
 #
