@@ -51,7 +51,7 @@ Here's a list of the Software I use:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/FelixHennerich/FelixHennerich/blob/main/JavaScript-logo.png?raw=true" alt="JS" width="40" height="40"/></a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/FelixHennerich/FelixHennerich/blob/main/1_5-aoK8IBmXve5whBQM90GA.png?raw=true" alt="flutter" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="" alt="python" width="40" height="40"/></a>  //Python
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/FelixHennerich/FelixHennerich/blob/main/Python-logo-notext.svg.png?raw=true" alt="python" width="40" height="40"/></a>
 <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://github.com/FelixHennerich/FelixHennerich/blob/main/379109.png?raw=true" alt="arduino" width="40" height="40"/></a>
 <a href="https://www.apple.com" target="_blank" rel="noreferrer"> <img src="https://github.com/FelixHennerich/FelixHennerich/blob/main/icon.png?raw=true" alt="swift" width="40" height="40"/></a>
 
