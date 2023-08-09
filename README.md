@@ -58,4 +58,4 @@ Here's a list of the Software I use:
 #
 
 <nobr><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelixHennerich&show_icons=true&locale=en&theme=github_dark" alt="FelixHennerich"/></p></nobr>
-<nobr><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FelixHennerich&theme=transparent&card_width=473&type=png" alt="caaasperrr" /></p></nobr>
+<nobr><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FelixHennerich&theme=transparent&card_width=473&type=png" alt="FelixHennerich" /></p></nobr>
