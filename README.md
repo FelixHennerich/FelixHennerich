@@ -55,7 +55,6 @@ Here's a list of the Software I use:
 <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://github.com/FelixHennerich/FelixHennerich/blob/main/379109.png?raw=true" alt="arduino" width="40" height="40"/></a>
 <a href="https://www.apple.com" target="_blank" rel="noreferrer"> <img src="https://github.com/FelixHennerich/FelixHennerich/blob/main/icon.png?raw=true" alt="swift" width="40" height="40"/></a>
 
-#
 
-<nobr><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelixHennerich&show_icons=true&locale=en&theme=github_dark" alt="FelixHennerich"/></p></nobr>
+<!--<nobr><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelixHennerich&show_icons=true&locale=en&theme=github_dark" alt="FelixHennerich"/></p></nobr>
 <!-- <nobr><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FelixHennerich&theme=transparent&card_width=473&type=png" alt="FelixHennerich" /></p></nobr>
