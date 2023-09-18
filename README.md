@@ -87,5 +87,7 @@ Here's a list of the Software I use: <br>
 
 <div align="center">
   :heart_eyes: Thanks for watching our profile! Have a nice day! :wink: <br/>
+  Current coding streak: 55 days <br/>
   &copy; 2023 Hash-HQ
+
 </div>
