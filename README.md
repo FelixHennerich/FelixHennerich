@@ -55,6 +55,11 @@ Here's a list of the Software I use: <br>
 
 <br> 
 
+#
+
+![Metrics](/github-metrics.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 # 
 
 <br><br>
