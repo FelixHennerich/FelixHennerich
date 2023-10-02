@@ -42,7 +42,6 @@
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
 <img src="https://img.shields.io/badge/jetbrains_ides-000000?style=for-the-badge&amp;logo=jetbrains&amp;logoColor=white" alt="JetBrains"> 
 <img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="apple">
-
 </p>
 
 
@@ -77,7 +76,7 @@
 <p> 
 <div align="center">
 :heart_eyes: Thanks for watching our profile! Have a nice day! :wink: <br/>
-Current coding streak: 68 days <br/>
+Current coding streak: 69 days <br/>
 &copy; 2023 Hash-HQ
 
 </div>
