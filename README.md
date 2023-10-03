@@ -11,7 +11,6 @@
 ![Metrics](/github-metrics.svg)
 
 
-
 # 💻 Tech Stack:
 <p align="center">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -81,7 +80,7 @@
 <p> 
 <div align="center">
 :heart_eyes: Thanks for watching our profile! Have a nice day! :wink: <br/>
-Current coding streak: 69 days <br/>
+Current coding streak: 70 days <br/>
 &copy; 2023 Hash-HQ
 
 </div>
