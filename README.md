@@ -80,7 +80,7 @@
 <p> 
 <div align="center">
 :heart_eyes: Thanks for watching our profile! Have a nice day! :wink: <br/>
-Current coding streak: 174 days <br/>
+Current coding streak: 175 days <br/>
 &copy; 2023 Hash-HQ
 
 </div>
