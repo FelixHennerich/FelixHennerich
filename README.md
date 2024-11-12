@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Felix</h1>
+m<h1>Hi there, I'm Felix</h1>
 
 <p align="center"> 18y. Student in Germany 🇩🇪 at Gymnasium Ebingen. A passionate person for everything round about coding, tech and science. Before I start studying computer science at a university in Germany, I'm going to improve and refine my skills as much as possible. You've got a challenge for me? Text me! Anyway. Have fun on my GitHub account. 😄</p>
 
@@ -74,9 +74,7 @@
 <img align="center" alt="FelixHennerich | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a> &nbsp;&nbsp;
 
-<a href="https://www.youtube.com/channel/UCKNT0NCikpds9nWKhIQcS3w" target="_blank">
-<img align="center" alt="1BlueNitrox | YouTube" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
-</a> &nbsp;&nbsp;
+
 <p> 
 <div align="center">
 :heart_eyes: Thanks for watching our profile! Have a nice day! :wink: <br/>
