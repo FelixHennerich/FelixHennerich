@@ -1,6 +1,6 @@
 m<h1>Hi there, I'm Felix</h1>
 
-<p align="center"> 18y. Student in Germany 🇩🇪 at Gymnasium Ebingen. A passionate person for everything round about coding, tech and science. Before I start studying computer science at a university in Germany, I'm going to improve and refine my skills as much as possible. You've got a challenge for me? Text me! Anyway. Have fun on my GitHub account. 😄</p>
+<p align="center"> 20y. Student in Germany 🇩🇪 at Gymnasium Ebingen. A passionate person for everything round about coding, tech and science. Computer science student at a university in Germany, I'm going to improve and refine my skills as much as possible. You've got a challenge for me? Text me! Anyway. Have fun on my GitHub account. 😄</p>
 
 
 <br>
@@ -77,7 +77,6 @@ m<h1>Hi there, I'm Felix</h1>
 <p> 
 <div align="center">
 :heart_eyes: Thanks for watching our profile! Have a nice day! :wink: <br/>
-Current coding streak: 431 days <br/>
-&copy; 2023 Hash-HQ
+&copy; 2025 FelixHennerich
 
 </div>
